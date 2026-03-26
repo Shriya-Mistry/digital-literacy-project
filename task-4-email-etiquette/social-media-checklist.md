@@ -1,5 +1,6 @@
 # SOCIAL MEDIA CHECKLIST (DO'S AND DON'TS)
 
+
 | Do's | Don'ts |
 |------|--------|
 | Verify before sharing any information | Restrain from spreading fake news |
