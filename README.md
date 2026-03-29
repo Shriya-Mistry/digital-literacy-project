@@ -39,13 +39,29 @@ This task provides a case study on Ransomware, a malware. Additionally, it provi
 
 ## PROJECT STRUCTURE
 
-| --- README.md
+| --- README.md  
+| --- report/  
+      | --- Project_Report.pdf  
+| --- task-1-presentation/  
+      | --- DIGITAL LITERACY AWARENESS INFOGRAPHIC  
+| --- task-2-portfolio/  
+      | --- GITHUB.pdf  
+      | --- LINKEDIN.pdf  
+      | --- STACK OVERFLOW.pdf  
+| --- task-3-platforms/  
+      | --- HACKERRANK.pdf  
+      | --- Quiz - 1.png  
+      | --- Quiz - 2.png  
+      | --- Quiz - 3.png  
+      | --- Google Sheet Response.png  
+| --- task-4-email-etiquette/  
+      | --- Email - 01.pdf  
+      | --- Email - 02.pdf  
+      | --- social-media-checklist.md  
+| --- task-5-cybercrime/  
+      | --- CYBERCRIME_RANSOMWARE.pdf  
+      | --- prevention-checklist.md  
 
-| --- report/
-
-      | --- Project_Report.pdf
-      
-|
 
 
 
