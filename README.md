@@ -10,7 +10,7 @@ It aims to :
 ---
 
 ### TOOLS AND TECHNOLOGIES USED
-- GitHUb
+- GitHub
 - Google Forms
 - HackerRank
 - Canva
