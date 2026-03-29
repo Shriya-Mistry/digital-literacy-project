@@ -9,7 +9,7 @@ It aims to :
 
 ---
 
-## TOOLS AND TECHNOLOGIES USED
+### TOOLS AND TECHNOLOGIES USED
 - GitHUb
 - Google Forms
 - HackerRank
@@ -18,26 +18,26 @@ It aims to :
 
 ---
 
-## PROJECT TASKS
+### PROJECT TASKS
 
-### TASK 01 - DIGITAL LITERACY AWARENESS INFOGRAPHIC
+#### TASK 01 - DIGITAL LITERACY AWARENESS INFOGRAPHIC
 It is about creating visual designs and inforgraphic slides online using various tools.
 
-## TASK 02 - STUDENT DIGITAL PORTFOLIO
+#### TASK 02 - STUDENT DIGITAL PORTFOLIO
 It is about creating foundational portfolio to collaborate and get opportunities.
 
-## TASK 03 - CODING AND COLLABORATION PLATFORMS
+#### TASK 03 - CODING AND COLLABORATION PLATFORMS
 This task shows problems solving on HackerRank and creation of quiz using Google Forms.
 
-## TASK 04 - PROFESSIONAL EMAIL AND EMAIL ETIQUETTE
+#### TASK 04 - PROFESSIONAL EMAIL AND EMAIL ETIQUETTE
 It provides etiquettes to professionally communicate online. In addition to that, it shows a table of do's and don'ts to responsibly use social media.
 
-## TASK 05 - CYBERCRIME AWARENESS
+#### TASK 05 - CYBERCRIME AWARENESS
 This task provides a case study on Ransomware, a malware. Additionally, it provides a checklist to stay safe online. 
 
 ---
 
-## Project Structure
+### Project Structure
 
 ```
 Digital-Literacy-Project/
@@ -71,9 +71,9 @@ Digital-Literacy-Project/
 │   └── prevention-checklist.md
 ```
 
-## CONCLUSION
+### CONCLUSION
 This project helped in building strong foundation by combining theoretical and practical knowledge
 
-## MADE BY :
+### MADE BY :
 Name - Shriya Mistry
 Registration No. - 25BCY10078
