@@ -37,7 +37,7 @@ This task provides a case study on Ransomware, a malware. Additionally, it provi
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Digital-Literacy-Project/
@@ -71,6 +71,9 @@ Digital-Literacy-Project/
 │   └── prevention-checklist.md
 ```
 
+## CONCLUSION
+This project helped in building strong foundation by combining theoretical and practical knowledge
 
-
-
+## MADE BY :
+Name - Shriya Mistry
+Registration No. - 25BCY10078
