@@ -39,6 +39,13 @@ This task provides a case study on Ransomware, a malware. Additionally, it provi
 
 ## PROJECT STRUCTURE
 
+| --- README.md
+
+| --- report/
+
+      | --- Project_Report.pdf
+      
+|
 
 
 
